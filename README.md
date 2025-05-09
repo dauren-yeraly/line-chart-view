@@ -11,4 +11,4 @@
 - Interactive tooltips on tap and pan
 - Delegate for handling point selection
 
-![Снимок экрана 2025-05-09 в 16 09 47](https://github.com/user-attachments/assets/fb497e44-828a-45d2-9d0f-ba4c2c9fdb0d)
+  ![Снимок экрана 2025-05-09 в 16 09 47](https://github.com/user-attachments/assets/fb497e44-828a-45d2-9d0f-ba4c2c9fdb0d)
