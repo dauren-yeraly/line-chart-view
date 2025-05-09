@@ -1,6 +1,6 @@
 //
 //  LineChartView.swift
-//  ChartTest
+//  LineChart
 //
 //  Created by Dauren Yeraly on 08.05.2025.
 //
