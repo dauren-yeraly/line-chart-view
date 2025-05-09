@@ -1,6 +1,6 @@
 ## 📈 LineChartView
 
-`LineChartView` is a custom `UIView` for displaying smooth, interactive line charts in iOS apps.
+`LineChartView` is a custom `UIView` component for rendering smooth line charts with gradient fill, axis labels, and interactive tooltips. It supports both single and multiple data points and provides a delegate callback on user interaction.
 
 ### Features
 
